@@ -126,7 +126,7 @@
 .bet-button {
   width: 256px;
   height: 51px;
-  border: 1px solid #fff;
+  border: 1px solid currentColor;
   background-color: transparent;
   font-size: 22px;
   line-height: 100%;
@@ -264,12 +264,14 @@
   line-height: 24px;
 }
 
-.text__first {
+.text__up {
   padding-top: 76px;
+  max-width: 688px;
 }
 
-.text__second {
+.text__down {
   padding-top: 24px;
+  max-width: 693px;
 }
 
 .footer {
