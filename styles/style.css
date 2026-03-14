@@ -40,6 +40,10 @@
   height: 105px;
 }
 
+.address {
+  font-style: normal;
+}
+
 .header__address {
   padding-left: 185px;
   font-size: 18px;
